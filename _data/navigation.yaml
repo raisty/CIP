@@ -1,0 +1,16 @@
+- title: Home
+  url: index
+- title: All
+  url: all
+- title: Core
+  url: core
+- title: Network
+  url: networking
+- title: Interface
+  url: interface
+- title: CRC
+  url: crc
+- title: Info
+  url: informational
+- title: Meta
+  url: meta

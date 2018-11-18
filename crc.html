@@ -1,0 +1,7 @@
+---
+layout: page
+title: CRC
+---
+
+{% assign cips=site.pages|where:"type","Standards Track"|where:"category","CRC" %}
+{% include ciptable.html cips=cips %}
