@@ -1,6 +1,8 @@
+.DS_Store
+.AppleDouble
+.LSOverride
 _site
 .sass-cache
 .jekyll-metadata
-.gitkeep
 Gemfile.lock
 *.gem
