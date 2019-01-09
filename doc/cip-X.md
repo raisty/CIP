@@ -12,6 +12,7 @@ status: Draft
 type: <Standards Track (Core, Networking, Interface, CRC)  | Informational | Meta>
 category (*only required for Standard Track): <Core | Networking | Interface | CRC>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+alias (*optional & unique): <Alias name to refer this CIP>
 requires (*optional): <CIP number(s)>
 replaces (*optional): <CIP number(s)>
 ---
