@@ -124,7 +124,7 @@ CRC2 tokens are backwards compatible with CRC1 tokens.
 
 Historical links related to this standard:
 
-- [Reddit discussion](https://coretalk.info/t/crc-2-token-standard/39)
+- [Core talk discussion](https://coretalk.info/t/crc-2-token-standard/39)
 - [Original Issue #2](https://github.com/core-coin/CIP/issues/2)
 
 ## Copyright
